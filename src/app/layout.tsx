@@ -5,7 +5,7 @@ import "./globals.css";
 const roboto = Roboto({ weight: ["400", "700", "900"], subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Sign up FJS",
+  title: "Sign up - FJS",
   description: "Sign up page with NextJs and Tailwind",
 };
 
